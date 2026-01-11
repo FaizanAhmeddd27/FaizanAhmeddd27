@@ -28,7 +28,7 @@ const faizan = {
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-## 🎯 What I Do
+##  What I Do
 
 - 🎓 **Computer Science Student** at NED University (2024–2028)
 - 🔧 **MERN Stack Developer** – Building full-stack web applications and projects
@@ -57,8 +57,6 @@ const faizan = {
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </details>
@@ -93,13 +91,6 @@ const faizan = {
 
 </details>
 
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</details>
 
 <details open>
 <summary><b>🧰 Tools & Others</b></summary>
